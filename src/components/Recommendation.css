@@ -1,0 +1,16 @@
+.title{
+  padding-left: 25px; 
+  font-size: 2rem;
+  font-family: 'PT Sans' sans-serif;
+  color: #fff;
+  margin-bottom: 20px;
+  padding-top: 10px;
+}
+
+.mt{
+  font-family: 'PT Sans' sans-serif; 
+  color: #222;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 1.2rem;
+}

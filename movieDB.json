@@ -1,0 +1,43 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "name": "Jurassic World",
+      "url": "./image/jurassic.jpg",
+      "like": true
+    },
+    {
+      "id": 2,
+      "name": "Forest Gump",
+      "url": "./image/forest.jpg",
+      "like": false
+    },
+    {
+      "id": 3,
+      "name": "Knives Out",
+      "url": "./image/knife.jpg",
+      "like": true
+    },
+    {
+      "id": 4,
+      "name": "Joker",
+      "url": "./image/joker.jpg",
+      "like": true
+    }
+  ],
+
+  "actor": [
+    {
+      "id": 1,
+      "name": "Matt Damon"
+    },
+    {
+      "id": 2,
+      "name": "MC Lyte"
+    },
+    {
+      "id": 3,
+      "name": "Sally Field"
+    }
+  ]
+}

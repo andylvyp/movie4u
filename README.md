@@ -1,4 +1,4 @@
-#Movie4U
+# Movie4U
 This is a project that provides movie recommendations for the users. The frontend is developed with *React.js*. Instead of using microservices, we use *json local server* to simulate the database.
 
 ## Get started
@@ -21,4 +21,4 @@ In my opinion, *file system* can be used to maintain the persistence. That is, t
 Right now, I am not familiar with teh microservices, but I am willing to learn more about it.
 
 ##Demo
-![Screenshot]()
+![Screenshot](https://github.com/andylvyp/movie4u/blob/master/Demo.png)

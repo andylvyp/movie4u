@@ -16,15 +16,6 @@ function App() {
   const [movies, setMovies] = useState([])
   const [actors, setActors] = useState([])
 
-  // useEffect(() => {
-  //   axios
-  //     .get(baseUrl)
-  //     .then(response => {
-  //       setMovies(response.data)
-  //       console.log(response)
-  //     })
-  // }, [])
-
   useEffect(() => {
     axios
       .get(baseUrl)
@@ -66,13 +57,6 @@ function App() {
       <Actor actors={actors}/>
       <FooterContainer />
     </div>
-
-
-
-
-
-
-
   )
 
 }
